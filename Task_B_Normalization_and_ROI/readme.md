@@ -1,4 +1,4 @@
-**Task B — Design Normalization Logic and ROI Features**
+**Task B - Design Normalization Logic and ROI Features**
 
 Project: Real Estate Sentiment & Market Insight
 
